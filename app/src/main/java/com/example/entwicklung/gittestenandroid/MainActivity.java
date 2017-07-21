@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("hjkhkj","jkhkjhkjhk");
         Log.e("hjkhkj222","jkhkjhkjhk2222");
-        Log.e("hjkhkj222111","jkhkjhkjhk222211");
+       Log.e("hjjjkj","zuuzuiuiuiu");
 
     }
 }
